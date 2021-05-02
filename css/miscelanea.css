@@ -1,0 +1,43 @@
+.box-1, .box-2, .box-3, .box-4 {
+    border-radius: 4px;
+    margin: 20px;
+    width: 235px;
+    display: inline-block;
+    line-height: 0.1em;
+}
+h1, h2, p {
+    text-align: center;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+}
+p {
+    font-style: italic;
+}
+body {
+    text-align: center;
+    color: midnightblue;
+    margin: 0;
+    border: 0,
+}
+p {
+    font-size: 1.5em;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+#titulo-principal {
+    font-size: 3em;
+    color: blueviolet;
+    font-style: italic;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+.bici-margin1, .bici-margin2, .bici-margin3, .bici-margin4 {
+    background: salmon;
+    display: block;
+    width: 360px;
+    padding: 20px;
+}
